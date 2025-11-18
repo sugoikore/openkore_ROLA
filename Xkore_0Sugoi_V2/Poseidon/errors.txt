@@ -1,0 +1,13 @@
+OpenKore version what-will-become-2.1
+Revision: git:edc970e_2025-10-23 ctime:2025_10_29
+No loaded plugins.
+
+Error message:
+Invalid serverType specified. Please check your poseidon config file.
+
+Stack trace:
+Invalid serverType specified. Please check your poseidon config file.
+ at F:/Openkore/Opk_v0/openkore/src/Poseidon/../Poseidon/RagnarokServer.pm line 70.
+	Poseidon::RagnarokServer::new("Poseidon::RagnarokServer", 6900, "172.65.175.33") called at poseidon.pl line 53
+	main::initialize() called at poseidon.pl line 66
+	main::__start() called at poseidon.pl line 74
